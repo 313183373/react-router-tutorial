@@ -4,3 +4,5 @@ node_modules
 .DS_Store
 .idea
 lessons/02-rendering-a-route/package-lock.json
+lessons/04-nested-routes/package-lock.json
+lessons/03-navigating-with-link/package-lock.json
