@@ -3,3 +3,4 @@ bundle.js
 node_modules
 .DS_Store
 .idea
+lessons/02-rendering-a-route/package-lock.json
